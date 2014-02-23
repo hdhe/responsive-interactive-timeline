@@ -2,7 +2,7 @@ responsive-interactive-timeline
 ===============================
 
 **Demo**	
-View the [demo](http://julia-chen.com/timeline/) on any your computer, laptop, tablet, or phone.
+View the [demo](http://julia-chen.com/timeline/) on your computer, laptop, tablet, or phone.
 
 **Features**
 -  Responsive and mobile-friendly timeline. 
